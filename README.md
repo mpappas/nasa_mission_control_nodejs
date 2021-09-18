@@ -10,6 +10,10 @@ The following project is a mission control dashboard used to schedule missions t
 - MVC Model
 - Logging with Morgan
 
+## General Notes
+
+[Node.js Best Practices Repository](https://github.com/goldbergyoni/nodebestpractices)
+
 ## Performance notes
 
 [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)
@@ -32,3 +36,29 @@ The following project is a mission control dashboard used to schedule missions t
 [Node Worker Threads Module](https://nodejs.org/api/worker_threads.html)
 
 [Web Worker API For Browsers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+
+## Databases
+
+[JSON and BSON in MongoDB](https://www.mongodb.com/json-and-bson)
+
+[Writing Scripts for the Mongo Shell](https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/)
+
+[Postgres JSON Types](https://www.postgresql.org/docs/current/datatype-json.html)
+
+[Object-Relational Impedance Mismatch](https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch)
+
+[ACID Transactions](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions)
+
+[Official MongoDB Website](https://www.mongodb.com/)
+
+[Official Mongoose Website](https://mongoosejs.com/)
+
+[The Principle of Least Privilege](https://www.cyberark.com/what-is/least-privilege/)
+
+[MongoDB ObjectID to Timestamp Calculator](https://steveridout.github.io/)
+
+[Referential Integrity](https://en.wikipedia.org/wiki/Referential_integrity)
+
+[Auto Increment In MySQL](https://dev.mysql.com/doc/refman/8.0/en/example-auto-increment.html)
+
+[Serial Types In PostreSQL](https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL)
