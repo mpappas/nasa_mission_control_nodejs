@@ -14,6 +14,8 @@ The following project is a mission control dashboard used to schedule missions t
 
 [Node.js Best Practices Repository](https://github.com/goldbergyoni/nodebestpractices)
 
+[JavaScript Array flatMap()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
+
 ## Performance notes
 
 [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)
