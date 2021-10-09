@@ -64,3 +64,5 @@ The following project is a mission control dashboard used to schedule missions t
 [Auto Increment In MySQL](https://dev.mysql.com/doc/refman/8.0/en/example-auto-increment.html)
 
 [Serial Types In PostreSQL](https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL)
+
+[Express.js security with HTTP headers](https://helmetjs.github.io/)
