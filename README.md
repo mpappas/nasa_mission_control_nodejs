@@ -66,3 +66,13 @@ The following project is a mission control dashboard used to schedule missions t
 [Serial Types In PostreSQL](https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL)
 
 [Express.js security with HTTP headers](https://helmetjs.github.io/)
+
+## GraphQL
+
+[Express GraphQL middleware](https://github.com/graphql/express-graphql)
+[GraphQL Tools](https://www.graphql-tools.com/)
+[Resolvers](https://graphql.org/learn/execution/)
+
+- https://spec.graphql.org
+- https://relay.dev/
+- https://www.apollographql.com/
