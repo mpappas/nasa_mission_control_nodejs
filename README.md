@@ -76,3 +76,13 @@ The following project is a mission control dashboard used to schedule missions t
 - https://spec.graphql.org
 - https://relay.dev/
 - https://www.apollographql.com/
+
+## Sockets in NodeJS
+
+[WebSocket Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+[ws: a Node.js WebSocket library](https://github.com/websockets/ws)
+[Official socket.io Website](https://socket.io/)
+[Emit Cheatsheet](https://socket.io/docs/v4/emit-cheatsheet/)
+[Latest socket.io Client on CDN](https://cdnjs.com/libraries/socket.io)
+
+[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
